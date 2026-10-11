@@ -2,7 +2,7 @@
 
 Minecraft Paper Server Plugin resource pack  for players to accept it (only for server use)
 ## how to setup 
-1. go to any minecraft zip hosting web like [McPacks](mc-packs.net)
+1. go to any minecraft zip hosting web like [McPacks](https://mc-packs.net)
 2. now go to your Server Root File And Edit Server.properties and the followig that was given in the next side like 
    is 
    ```text
