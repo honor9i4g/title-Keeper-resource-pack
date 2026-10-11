@@ -26,7 +26,7 @@ Minecraft Paper Server Plugin resource pack  for players to accept it (only for 
    For Titlekeeper 1.2.0 And 1.3.0 beta (not available)
    download it here [download](https://titlekeeperbadges.netlify.app/titlekeeper-badges-1.2.zip)
   
-  ---
+   ---
    
    ## 1.3
    For Titlekeeper 1.3.0, 1.4.0 and 1.5.0
