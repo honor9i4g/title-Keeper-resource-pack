@@ -7,7 +7,7 @@ Minecraft Paper Server Plugin resource pack  for players to accept it (only for 
    is 
    ```text
    resource-pack=https://download.mc-packs.net/pack/669771d8c302317fbc34874ff349ca07804d0389.zip
-   resource-pack-sha1=669771d8c302317fbc34874ff349ca07804g6767
+   resource-pack-sha1=yourgivensha1of30-40digit
    resource-pack-id=yourrealonegeneratedfromitd2-6cba-4c5c-a03e-1722d45c91b8
    resource-pack-prompt={"text":"Our server uses a custom resource pack!", "color":"gold"}
    require-resource-pack=true
